@@ -1,9 +1,207 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.1.1">
   <diagram name="Page-1" id="y72Ek5A8odor8z7WFP3c">
-    <mxGraphModel>
+    <mxGraphModel dx="3160" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-1" target="ECuYPOleVHZlS-Z_ZuU7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-1" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-2" target="ECuYPOleVHZlS-Z_ZuU7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-2" value="Usuario ingresa Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-3" target="ECuYPOleVHZlS-Z_ZuU7-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-15" value="sí" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ECuYPOleVHZlS-Z_ZuU7-9">
+          <mxGeometry x="0.4919" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-3" target="ECuYPOleVHZlS-Z_ZuU7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-16" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ECuYPOleVHZlS-Z_ZuU7-13">
+          <mxGeometry x="-0.04" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-3" value="¿Es el input un saludo?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-4" value="Usuario ingresa Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="370" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-10" target="ECuYPOleVHZlS-Z_ZuU7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-10" value="Bot responde:&lt;br&gt;Hola me llamo Robotín3000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-11" value="Bot responde:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-12" target="ECuYPOleVHZlS-Z_ZuU7-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-12" value="Bot responde: Es importante ser educados e iniciar saludando, ahora salúdame" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-19" target="ECuYPOleVHZlS-Z_ZuU7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-19" value="Usuario ingresa Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="660" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-24" value="sí" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-21" target="ECuYPOleVHZlS-Z_ZuU7-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-27" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-21" target="ECuYPOleVHZlS-Z_ZuU7-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-21" value="¿El input tiene el patrón robotín3000?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="750" width="145" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-23" target="ECuYPOleVHZlS-Z_ZuU7-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="970" />
+              <mxPoint x="90" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-23" value="Bot responde:&lt;br&gt;Hola, me llamo robotín, cómo estás" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-29" value="sí" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-26" target="ECuYPOleVHZlS-Z_ZuU7-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-32" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-26" target="ECuYPOleVHZlS-Z_ZuU7-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-26" value="¿El input tiene algún insulto?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="777.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-28" target="ECuYPOleVHZlS-Z_ZuU7-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="1050" />
+              <mxPoint x="90" y="1050" />
+              <mxPoint x="90" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-28" value="&lt;div&gt;Bot responde:&lt;/div&gt;Hey muchacho, no seas tan soez." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="947.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-34" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-31" target="ECuYPOleVHZlS-Z_ZuU7-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-31" target="ECuYPOleVHZlS-Z_ZuU7-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-31" value="¿El input tiene un patrón de sentimiento?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="777.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-36" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-33" target="ECuYPOleVHZlS-Z_ZuU7-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-33" target="ECuYPOleVHZlS-Z_ZuU7-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-33" value="¿El input tiene un patrón de deseo?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="760" width="125" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-38" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-35" target="ECuYPOleVHZlS-Z_ZuU7-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-35" target="ECuYPOleVHZlS-Z_ZuU7-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-35" value="¿El input tiene un patrón de trabajo?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="985" y="777.5" width="115" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-40" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-37" target="ECuYPOleVHZlS-Z_ZuU7-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-37" target="ECuYPOleVHZlS-Z_ZuU7-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-37" value="¿El input tiene un patrón de gusto?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="777.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-42" value="sí" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-39" target="ECuYPOleVHZlS-Z_ZuU7-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-47" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-39" target="ECuYPOleVHZlS-Z_ZuU7-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-39" value="¿El input tiene un patrón de salir?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="777.5" width="115" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-41" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-46" target="ECuYPOleVHZlS-Z_ZuU7-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-46" value="Bot responde:&lt;br&gt;Ni idea xd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="787.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-49" target="ECuYPOleVHZlS-Z_ZuU7-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="1080" />
+              <mxPoint x="90" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-49" value="Bot responde:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Comprendo tu [sentimiento]&lt;/li&gt;&lt;li&gt;Yo a veces también me siento [sentimiento]&lt;/li&gt;&lt;li&gt;Deberías ir con el psicólogo por eso que sientes.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="947.5" width="170" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-53" target="ECuYPOleVHZlS-Z_ZuU7-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="1120" />
+              <mxPoint x="90" y="1120" />
+              <mxPoint x="90" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-53" value="Bot responde:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Yo también quiero [deseo]&lt;/li&gt;&lt;li&gt;¿Quién no quisiera un [deseo]?&lt;/li&gt;&lt;li&gt;Te prometo que tendrás [deseo]&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="947.5" width="170" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuYPOleVHZlS-Z_ZuU7-56" target="ECuYPOleVHZlS-Z_ZuU7-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1075" y="1150" />
+              <mxPoint x="90" y="1150" />
+              <mxPoint x="90" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-56" value="Bot responde:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Un crack total trabajando en [trabajo]&lt;/li&gt;&lt;li&gt;Suena complicado ese [trabajo]&lt;/li&gt;&lt;li&gt;Tú puedes en ese [trabajo]&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="947.5" width="170" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuYPOleVHZlS-Z_ZuU7-59" value="Bot responde:&lt;br&gt;&lt;ul&gt;&lt;li&gt;A mí también me gusta [gusto]&lt;/li&gt;&lt;li&gt;Es interesante que te guste [gusto]&lt;/li&gt;&lt;li&gt;Probemos eso que dices, eso de [gusto]&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="947.5" width="170" height="142.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
